@@ -1,6 +1,6 @@
 import { Stack } from "@mui/material";
 import { categories } from "../utils/constance";
-import { Category } from "@mui/icons-material";
+// import { category } from "@mui/icons-material";
 
 const SideBar = ( {selectedCategory, setSelectedCategory}) => 
     (
